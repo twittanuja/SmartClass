@@ -1,0 +1,2 @@
+# SmartClass
+This app has two user,Admin and Teacher.The Admin can login and add member to the database student or teacher,delete or modify these databases.A Teacher can login using user id and password.He/She can take attendance using Bluetooth connectivity,where both teachers and students Bluetooth must be on,and the app automatically takes attendance.The teacher can also view the syllabus,contact the student providing their roll number. 
